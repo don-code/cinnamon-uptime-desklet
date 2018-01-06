@@ -1,0 +1,17 @@
+{
+    "font-size": {
+        "type": "spinbutton",
+        "default": 50,
+        "min": 10,
+        "max": 200,
+        "units": "px",
+        "description" : "Font size",
+        "step": 1
+    },
+    "text-color" : {
+	    "type": "colorchooser",
+	    "default" : "rgb(255,255,255)",
+	    "description" : "Text color",
+	    "tooltip" : "Click the button to select a new text color"
+    }
+}

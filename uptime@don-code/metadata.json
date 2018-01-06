@@ -1,0 +1,7 @@
+{
+  "uuid": "uptime@don-code",
+  "name": "Uptime desklet",
+  "description": "A desklet that displays the system uptime",
+  "icon": "x-office-calendar",
+  "prevent-decorations": false
+}
